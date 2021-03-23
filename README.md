@@ -1,7 +1,7 @@
 # プログラミング攻略
 
 ## プログラミング学習
-- [プログラミング学習用YouTube Channel]()
+- [プログラミング学習用YouTube Channel](https://github.com/rensanrenren/programming_hack/issues/1)
 
 ## Google Cloud
 - [Google Cloud](https://cloudonair.withgoogle.com/)
