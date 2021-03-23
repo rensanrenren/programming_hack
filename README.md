@@ -1,5 +1,8 @@
 # プログラミング攻略
 
+## プログラミング学習
+- [プログラミング学習用YouTube Channel]()
+
 ## Google Cloud
 - [Google Cloud](https://cloudonair.withgoogle.com/)
 - [Google Cloud YouTube Channel](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)
