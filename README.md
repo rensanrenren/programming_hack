@@ -6,4 +6,4 @@
 - [Google Cloud Tech YouTube Channel](https://www.youtube.com/user/googlecloudplatform/videos)
 
 ## XAMPP
-[**・ダッシュボード**](http://localhost:8080)
+- [**ダッシュボード**](http://localhost:8080)
