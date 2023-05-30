@@ -1,6 +1,9 @@
-# プログラミング攻略
+# プログラミング学習用全体管理
+本リポジトリはプログラミング学習の全体管理リポジトリです。
 
-## プログラミング学習
+## 練習・制作物(リポジトリ)
+
+## Channels
 - [プログラミング学習用YouTube Channel](https://github.com/rensanrenren/programming_hack/issues/1)
 
 ## Google Cloud
