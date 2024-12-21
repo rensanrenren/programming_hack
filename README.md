@@ -1,6 +1,9 @@
 # プログラミング学習用全体管理
 本リポジトリはプログラミング学習の全体管理リポジトリです。
 
+# 教材一覧
+- MDN web docks https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Scripting/What_is_JavaScript
+
 ## 練習・制作物(リポジトリ)
 
 ## Channels
